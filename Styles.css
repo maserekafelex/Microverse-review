@@ -1,0 +1,28 @@
+#main {
+    background-color: #f0ecec;
+  background-color: #f0ecec;
+    text-align: center;
+  text-align: center;
+}
+#tribute-info{
+
+    margin: auto;}
+#tribute-info {
+    width: 50%;
+  margin: auto;
+    text-align: left;
+  width: 50%;
+    margin-top: 50px;
+  text-align: left;
+  margin-top: 50px;
+}
+li{
+
+    margin-bottom: 20px;
+}
+#image {
+  max-width: 90%;
+  margin: auto;
+  height: auto;
+  display: block;
+}
